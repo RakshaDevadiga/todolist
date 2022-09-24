@@ -1,0 +1,71 @@
+a{
+    padding: 10px;
+}
+
+
+    *{
+        margin: 0;
+        padding: 0;
+    
+    }
+    body{
+        
+    background-size: 280%;
+    background-position: -400px 0px;
+    
+    }
+    div.main{
+    
+        width: 450px;
+        margin: 30px auto 0px auto;
+    }
+    h2{
+        text-align: center;
+        padding: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+    #form{
+    
+        background-color: rgb(186, 0, 133);
+        width: 80%;
+        left: 500px;
+        font-size: 26px;
+        border-radius: 20px;
+        border: 1px soid rgba(255,255 , 255,0.3);
+        box-shadow: 2px 2px 15px;
+        padding-left: 500px;
+        color: #fff;
+    }
+    #submit{
+    
+        background-color: rgb(239, 171, 14);
+        color: rgba(17, 24, 29, 0.721);
+        border-radius: 10px;
+        position: absolute;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: large;
+        left: 700px;
+        size: 100px;
+        font-size: 26px;
+    }
+    .script{
+    
+        background-color: rgb(186, 0, 133);
+        width: 100%;
+        font-size: 26px;
+        border-radius: 20px;
+        border: 1px soid rgba(255,255 , 255,0.3);
+        box-shadow: 2px 2px 15px;
+        
+        color: #fff;
+    
+    }  
+form{
+
+    background-color: aqua;
+    position: absolute;
+    left: 50px;
+    height: 500px;
+}
